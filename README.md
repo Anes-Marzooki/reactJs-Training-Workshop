@@ -3,7 +3,7 @@
 </p>
 
 
-### All the necessary *stuff* needed before diving in too deep into [react](https://reactjs.org/docs/getting-started.html) :ocean:
+### All the necessary *stuff* needed before diving too deep into [react](https://reactjs.org/docs/getting-started.html) :ocean:
 
 ## List of Contents :scroll:
 <details>
