@@ -7,7 +7,7 @@
 
 ## List of Contents :scroll:
 <details>
-  <summary><strong>Click to expand the list</strong></summary>
+  <summary>:point_right:<strong> Click to expand the list</strong></summary>
 
 - [The Basics](#the-basics)
   * [Basic Functions](#basic-functions)
