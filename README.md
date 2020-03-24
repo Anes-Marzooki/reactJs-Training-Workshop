@@ -3,9 +3,12 @@
 </p>
 
 
-### All the necessary *stuff* needed before diving too deep into [react](https://reactjs.org/docs/getting-started.html) :ocean:
+<h2 align="center">All the necessary <i>stuff</i> needed before diving too deep into <a href="https://reactjs.org/docs/getting-started.html">reactJs</a></h2>
 
-## List of Contents :scroll:
+## List of Contents :writing_hand: :scroll:
+
+### Learning
+
 <details>
   <summary>:point_right:<strong> Click to expand the list</strong></summary>
 
@@ -49,7 +52,20 @@
   * [React Context](#react-context)
   </details>
   
-  > This List will get updated in the future, for now it just links to the various topics needed to strengthen the skills needed to become a knowledgeable and a practical react developer. :man_juggling:
+
+  
+### Demos and Practice :man_juggling:
+<details>
+  <summary>:point_right:<strong> Click to expand the list</strong></summary>
+  
+ - [Demos](#demos)
+ - [Exercises](#exercises)
+ - [Mini Apps](#mini-apps)
+</details>
+
+  > This List will get updated in the future, for now it just links to the various topics. 
+  
+  
   
   ## The Basics
   
