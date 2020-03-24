@@ -5,9 +5,9 @@
 
 <h2 align="center">All the necessary <i>stuff</i> needed before diving too deep into <a href="https://reactjs.org/docs/getting-started.html">reactJs</a></h2>
 
-## List of Contents :writing_hand: :scroll:
+## List of Contents :scroll:
 
-### Learning
+### Learning  :writing_hand:
 
 <details>
   <summary>:point_right:<strong> Click to expand the list</strong></summary>
